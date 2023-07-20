@@ -1,0 +1,8 @@
+../Core/Src/fr_ESP8266.c:16:6:ESP_RESET	8	static
+../Core/Src/fr_ESP8266.c:28:6:ESP_Server_Init	8	static
+../Core/Src/fr_ESP8266.c:37:6:transfer_bufor	32	static
+../Core/Src/fr_ESP8266.c:90:6:szukaj_wifi	24	static
+../Core/Src/fr_ESP8266.c:107:6:ChooseNextStep	8	static
+../Core/Src/fr_ESP8266.c:147:6:send_msg	16	static
+../Core/Src/fr_ESP8266.c:252:6:save_ssid	144	dynamic
+../Core/Src/fr_ESP8266.c:281:6:read_ssid	64	static

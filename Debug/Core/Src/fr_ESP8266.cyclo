@@ -1,0 +1,8 @@
+fr_ESP8266.c:16:6:ESP_RESET	1
+fr_ESP8266.c:28:6:ESP_Server_Init	1
+fr_ESP8266.c:37:6:transfer_bufor	16
+fr_ESP8266.c:90:6:szukaj_wifi	7
+fr_ESP8266.c:107:6:ChooseNextStep	6
+fr_ESP8266.c:147:6:send_msg	25
+fr_ESP8266.c:252:6:save_ssid	7
+fr_ESP8266.c:281:6:read_ssid	7
