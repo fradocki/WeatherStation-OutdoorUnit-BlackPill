@@ -1,4 +1,0 @@
-scd40.c:9:6:SCD40_init	1
-scd40.c:14:7:SCD40_getCO2	1
-scd40.c:29:6:SCD40_writecommand	1
-scd40.c:37:6:SCD40_readdata	1

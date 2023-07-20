@@ -1,4 +1,0 @@
-../Core/Src/fr_ESP8266_messages.c:21:6:load_msg	8	static
-../Core/Src/fr_ESP8266_messages.c:121:6:load_hotspot	8	static
-../Core/Src/fr_ESP8266_messages.c:218:6:wifi_reset	8	static
-../Core/Src/fr_ESP8266_messages.c:232:6:change_wifi	8	static

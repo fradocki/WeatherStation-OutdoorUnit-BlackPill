@@ -1,8 +1,0 @@
-fr_BME280.c:27:6:Trim_Read	1
-fr_BME280.c:58:5:BME280_Config	8
-fr_BME280.c:118:5:BMESensorRead	2
-fr_BME280.c:145:6:BME280_WakeUP	1
-fr_BME280.c:165:9:BME280_compensateTemperature	1
-fr_BME280.c:183:10:BME280_compensatePressure	2
-fr_BME280.c:212:10:BME280_compensateHumidity	1
-fr_BME280.c:235:6:BME280_Measure	5
