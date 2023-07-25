@@ -19,8 +19,8 @@ extern RTC_HandleTypeDef hrtc;
 extern RTC_TimeTypeDef time_get;
 extern RTC_DateTypeDef data_get;
 
-void SetNextAlarm(void);
-void pobierz_czas();
+void set_next_alarm(void);
+void get_time();
 void sleep();
 
 #endif /* INC_FR_STM32_H_ */

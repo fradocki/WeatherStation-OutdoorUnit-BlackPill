@@ -33,9 +33,9 @@
 #define CONFIG_REG      0xF5
 #define PRESS_MSB_REG   0xF7
 
-int BME280_Config (uint8_t osrs_t, uint8_t osrs_p, uint8_t osrs_h, uint8_t filter);
-void Trim_Read(void);
-void BME280_WakeUP(void);
-void BME280_Measure (void);
+int BME280_config (uint8_t osrs_t, uint8_t osrs_p, uint8_t osrs_h, uint8_t filter);
+void trim_read(void);
+void BME280_wake_up(void);
+void BME280_measure (void);
 
 #endif /* INC_FR_BME280_H_ */

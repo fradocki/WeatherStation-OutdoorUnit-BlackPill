@@ -12,7 +12,7 @@
 
 extern ADC_HandleTypeDef hadc1;
 
-void ADC_Select_CH4(void);
-void ADC_Select_CH6(void);
+void ADC_select_CH4(void);
+void ADC_select_CH6(void);
 
 #endif /* INC_FR_ADC_H_ */
